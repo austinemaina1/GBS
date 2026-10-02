@@ -1,0 +1,9 @@
+{
+  "name": "gbs-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GBS (Generation Builders & Suppliers) website, including a Netlify function for SMS quote notifications via Africa's Talking.",
+  "dependencies": {
+    "africastalking": "^0.6.4"
+  }
+}
