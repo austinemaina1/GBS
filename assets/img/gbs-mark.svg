@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- GBS truck mark: angular dump-truck silhouette -->
+  <path d="M4 40 L4 24 L26 24 L34 14 L50 14 L50 40" stroke="#E3A028" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <path d="M34 14 L40 24 L50 24" stroke="#E3A028" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <path d="M50 22 H58 L60 30 V40 H50 Z" stroke="#F4F1E9" stroke-width="3.4" stroke-linejoin="round" fill="none"/>
+  <circle cx="16" cy="44" r="6" fill="#1C1B19" stroke="#F4F1E9" stroke-width="2.6"/>
+  <circle cx="16" cy="44" r="2" fill="#F4F1E9"/>
+  <circle cx="46" cy="44" r="6" fill="#1C1B19" stroke="#F4F1E9" stroke-width="2.6"/>
+  <circle cx="46" cy="44" r="2" fill="#F4F1E9"/>
+  <path d="M4 40 H10 M22 40 H40" stroke="#F4F1E9" stroke-width="3.4" stroke-linecap="round"/>
+</svg>
